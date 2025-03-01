@@ -1,9 +1,9 @@
 package pl.coderslab;
 
-public class Main {
+public class TaskManager {
 
     public static void TaskManager() {
-        
+
     }
 
     public static void main(String[] args)
